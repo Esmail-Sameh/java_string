@@ -7,6 +7,6 @@ public class JavaString {
     public static void main(String[] args) {
         JavaText t1= new JavaText("Hello Esmail Sameh");
         
-        t1.printCharByChar();
+        t1.printCharByCharInvers();
     }
 }
